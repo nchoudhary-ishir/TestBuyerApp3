@@ -1,0 +1,14 @@
+{
+  "appname": "TestBuyerApp3",
+  "ocscope": "CategoryReader AddressAdmin CreditCardAdmin PriceScheduleReader MeAdmin",
+  "clientid": "F39F901F-2CBC-489B-BA52-6AC2CE7E8FEB",
+  "buyerid": "testBuyer",
+  "environment": "prod",
+  "anonymous": true,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
